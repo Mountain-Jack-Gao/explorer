@@ -1,2 +1,5 @@
 #clone
 git clone url repository
+#git add [file]
+#git cheatSheet 
+https://ndpsoftware.com/git-cheatsheet.html#loc=remote_repo;
